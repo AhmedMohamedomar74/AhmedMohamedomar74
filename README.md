@@ -20,10 +20,17 @@ Hello! I am Ahmed Mohamed Omar, an experienced Embedded System Software Engineer
 
 ## 🔧 Skills
 
-- **Programming Languages:** C, Embedded C
-- **Protocols:** SPI, I2C, UART
-- **Tools and Technologies:** Git, Arduino, Proteus, AutoCAD
-- **Other:** Deep Reinforcement Learning, Data Structures and Algorithms
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white)
+![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?logo=C&logoColor=white)
+![SPI](https://img.shields.io/badge/-SPI-FCC624?logo=spi&logoColor=white)
+![I2C](https://img.shields.io/badge/-I2C-003B57?logo=i2c&logoColor=white)
+![UART](https://img.shields.io/badge/-UART-E34F26?logo=uart&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+![Proteus](https://img.shields.io/badge/-Proteus-00A98F?logo=proteus&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-EE3124?logo=autodesk&logoColor=white)
+![Deep Reinforcement Learning](https://img.shields.io/badge/-Deep%20Reinforcement%20Learning-FF6F00?logo=deep-learning&logoColor=white)
+![Data Structures and Algorithms](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-4A148C?logo=algorithms&logoColor=white)
 
 ---
 
