@@ -81,7 +81,3 @@ Hello! I am Ahmed Mohamed Omar, an experienced Embedded System Software Engineer
 I would like to thank my mentors, peers, and the open-source community for their support and contributions. Your guidance and collaboration have been invaluable.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
