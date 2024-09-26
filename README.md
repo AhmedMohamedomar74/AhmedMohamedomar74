@@ -63,6 +63,11 @@ Hello! I am Ahmed Mohamed Omar, an experienced Embedded System Software Engineer
 - **Description:** Designed an intelligent traffic management system using I2C network and deep reinforcement learning algorithms. Improved traffic flow efficiency through real-time data analysis and optimal traffic light configurations.
 - **Technologies:** I2C, UART, Deep Reinforcement Learning, Proteus
 
+### [UART Bootloader with UDS Protocol for ATmega32](https://github.com/AhmedMohamedomar74/UART-Bootloader-UDS-Protocol)
+- **Description:** Developed a UART-based bootloader for the ATmega32 microcontroller that uses the Unified Diagnostic Services (UDS) protocol for programming the microcontroller via serial communication. This project enables reliable firmware updates through a structured communication process, ensuring data integrity and error management.
+- **Technologies:** UART, UDS Protocol, Python
+
+
 ### [One-Dimensional Solar Panel Tracking System with Custom GUI](https://github.com/AhmedMohamedomar74/Solar-panel-tracking)
 - **Description:** Developed a user-friendly GUI for controlling servo motor-driven solar panel angles. Enabled real-time plotting of voltage, current, and power data for effective monitoring.
 - **Technologies:** UART, ADC, TIMER, PWM
