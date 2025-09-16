@@ -1,21 +1,22 @@
 # Ahmed Mohamed Omar - MEARN Full Stack Developer
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ahmed-omar74/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/AhmedMohamedomar74)
 
 ## 👋 About Me
+
 Hello! I'm Ahmed Mohamed Omar, a dedicated MEARN Full Stack Developer with expertise in building scalable and high-performance web applications using MongoDB, Express.js, Angular, React, and Node.js. I excel in creating seamless front-end and back-end solutions, designing intuitive user interfaces, and developing robust APIs. With a strong foundation in both relational and non-relational databases, I thrive on tackling complex technical challenges to deliver user-focused, innovative applications.
 
 ---
 
 ## 📧 Contact Information
+
 - **Email:** ahmedmohamedomar74@gmail.com
 - **Phone:** 01158872274
-- **GitHub:** [AhmedMohamedomar74](https://github.com/AhmedMohamedomar74)
-- **LinkedIn:** [ahmed-omar74](https://www.linkedin.com/in/ahmed-omar74/)
+- **GitHub:** AhmedMohamedomar74
+- **LinkedIn:** ahmed-omar74
 
 ---
 
 ## 🔧 Skills
+
 - **Frontend:** React, Angular, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Redux
 - **Backend:** Node.js, Express.js, RESTful APIs, Sequelize ORM
 - **Database:** MongoDB, Mongoose, MySQL, Sequelize
@@ -26,7 +27,9 @@ Hello! I'm Ahmed Mohamed Omar, a dedicated MEARN Full Stack Developer with exper
 ---
 
 ## 🚀 Projects
-### [Node.js E-Commerce API](https://github.com/AhmedMohamedomar74/ITI-NodeJS-Ecommerce)
+
+### Node.js E-Commerce API
+
 - **Description:** A RESTful API for an e-commerce platform built with Node.js, Express, and MongoDB, featuring comprehensive functionality for managing products, orders, and payments.
 - **Features:**
   - User authentication and authorization using JWT.
@@ -36,7 +39,8 @@ Hello! I'm Ahmed Mohamed Omar, a dedicated MEARN Full Stack Developer with exper
   - Email notifications using Nodemailer.
 - **Technologies:** Node.js, Express.js, MongoDB, Mongoose, JWT, bcryptjs, Joi, Multer, Nodemailer, PayPal API
 
-### [Blog API Project](https://github.com/AhmedMohamedomar74/Blog-API-Project)
+### Blog API Project
+
 - **Description:** A Node.js-based RESTful API for managing blog content, including posts, comments, and user management, using MySQL and Sequelize ORM.
 - **Features:**
   - User management with secure authentication using JWT.
@@ -45,7 +49,8 @@ Hello! I'm Ahmed Mohamed Omar, a dedicated MEARN Full Stack Developer with exper
   - Standardized error handling with HTTP response codes.
 - **Technologies:** Node.js, Express.js, MySQL, Sequelize ORM, JWT
 
-### [MovieApp (Contributor)](https://github.com/hageramadan/MovieApp)
+### Movie App
+
 - **Description:** An Angular-based web application for browsing and managing movie data, featuring a responsive front-end interface.
 - **Features:**
   - Dynamic and responsive UI built with Angular CLI.
@@ -53,13 +58,22 @@ Hello! I'm Ahmed Mohamed Omar, a dedicated MEARN Full Stack Developer with exper
   - Local development server with auto-reload for efficient development.
 - **Technologies:** Angular, TypeScript, HTML5, CSS3
 
+### Adaptive Traffic Light Control System (Graduation Project)
+
+- **Description:** An intelligent traffic management system leveraging microcontroller communication and machine learning algorithms to optimize traffic flow in real-time. Developed as my university graduation project.
+- **Features:**
+  - Version 1: Implemented Reinforcement Learning (RL) with I2C and UART for data communication.
+  - Version 2: Improved adaptive traffic management with ML and Bluetooth.
+- **Technologies:** UART, I2C, Deep Reinforcement Learning, Bluetooth
+
 ---
 
 ## 📚 Education
-- **B.Sc. in Electronics and Communication Engineering**
-  *Helwan University | Sep 2019 - Jul 2024*
+
+- **B.Sc. in Electronics and Communication Engineering** *Helwan University | Sep 2019 - Jul 2024*
 
 ---
 
 ## 🌟 Acknowledgements
+
 I am grateful to my mentors, peers, and collaborators for their continuous guidance and support. Their expertise and encouragement have been instrumental in my growth as a MEARN Full Stack Developer.
