@@ -1,9 +1,9 @@
-# Ahmed Mohamed Omar - MERN Full Stack Developer
+# Ahmed Mohamed Omar - MEARN Full Stack Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ahmed-omar74/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/AhmedMohamedomar74)
 
 ## 👋 About Me
-Hello! I'm Ahmed Mohamed Omar, a dedicated MERN Full Stack Developer with expertise in building scalable and high-performance web applications using MongoDB, Express.js, React, and Node.js. I excel in creating seamless front-end and back-end solutions, designing intuitive user interfaces, and developing robust APIs. With a strong foundation in both relational and non-relational databases, I thrive on tackling complex technical challenges to deliver user-focused, innovative applications.
+Hello! I'm Ahmed Mohamed Omar, a dedicated MEARN Full Stack Developer with expertise in building scalable and high-performance web applications using MongoDB, Express.js, Angular, React, and Node.js. I excel in creating seamless front-end and back-end solutions, designing intuitive user interfaces, and developing robust APIs. With a strong foundation in both relational and non-relational databases, I thrive on tackling complex technical challenges to deliver user-focused, innovative applications.
 
 ---
 
@@ -16,7 +16,7 @@ Hello! I'm Ahmed Mohamed Omar, a dedicated MERN Full Stack Developer with expert
 ---
 
 ## 🔧 Skills
-- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Angular, Redux
+- **Frontend:** React, Angular, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Redux
 - **Backend:** Node.js, Express.js, RESTful APIs, Sequelize ORM
 - **Database:** MongoDB, Mongoose, MySQL, Sequelize
 - **Authentication:** JWT (JSON Web Tokens), bcryptjs
@@ -62,4 +62,4 @@ Hello! I'm Ahmed Mohamed Omar, a dedicated MERN Full Stack Developer with expert
 ---
 
 ## 🌟 Acknowledgements
-I am grateful to my mentors, peers, and collaborators for their continuous guidance and support. Their expertise and encouragement have been instrumental in my growth as a MERN Full Stack Developer.
+I am grateful to my mentors, peers, and collaborators for their continuous guidance and support. Their expertise and encouragement have been instrumental in my growth as a MEARN Full Stack Developer.
