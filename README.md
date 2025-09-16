@@ -1,76 +1,65 @@
-# Ahmed Mohamed Omar - Embedded Systems Developer
-
+# Ahmed Mohamed Omar - MERN Full Stack Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ahmed-omar74/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/AhmedMohamedomar74)
 
 ## 👋 About Me
-
-Hello! I'm Ahmed Mohamed Omar, a dedicated Embedded Systems Developer with expertise in designing and optimizing real-time systems, IoT applications, and machine learning-based solutions. My skills range from developing robust firmware for microcontrollers to creating innovative software applications. I thrive on solving challenging engineering problems and bringing ideas to life.
+Hello! I'm Ahmed Mohamed Omar, a dedicated MERN Full Stack Developer with expertise in building scalable and high-performance web applications using MongoDB, Express.js, React, and Node.js. I excel in creating seamless front-end and back-end solutions, designing intuitive user interfaces, and developing robust APIs. With a strong foundation in both relational and non-relational databases, I thrive on tackling complex technical challenges to deliver user-focused, innovative applications.
 
 ---
 
 ## 📧 Contact Information
-
-- **Email:** ahmedmohamedomar74@gmail.com  
-- **Phone:** 01158872274  
-- **GitHub:** [AhmedMohamedomar74](https://github.com/AhmedMohamedomar74)  
-- **LinkedIn:** [ahmed-omar74](https://www.linkedin.com/in/ahmed-omar74/)  
+- **Email:** ahmedmohamedomar74@gmail.com
+- **Phone:** 01158872274
+- **GitHub:** [AhmedMohamedomar74](https://github.com/AhmedMohamedomar74)
+- **LinkedIn:** [ahmed-omar74](https://www.linkedin.com/in/ahmed-omar74/)
 
 ---
 
 ## 🔧 Skills
-
-- **Programming:** C, C++, Python, Embedded C  
-- **Microcontrollers:** AVR32, ESP32, STM32, Arduino  
-- **IoT Protocols:** MQTT, BLE, Wi-Fi  
-- **Communication Protocols:** SPI, UART, I2C  
-- **RTOS:** FreeRTOS, Custom Schedulers  
-- **Development Tools:** Proteus, AutoCAD, Arduino IDE, Git  
-- **Others:** Data Structures & Algorithms, Deep Reinforcement Learning, Debugging  
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Angular, Redux
+- **Backend:** Node.js, Express.js, RESTful APIs, Sequelize ORM
+- **Database:** MongoDB, Mongoose, MySQL, Sequelize
+- **Authentication:** JWT (JSON Web Tokens), bcryptjs
+- **Tools & Platforms:** Git, Docker, Postman, Nodemailer, PayPal API
+- **Others:** Agile Methodologies, Input Validation (Joi), File Upload (Multer), CI/CD, Error Handling
 
 ---
 
 ## 🚀 Projects
+### [Node.js E-Commerce API](https://github.com/AhmedMohamedomar74/ITI-NodeJS-Ecommerce)
+- **Description:** A RESTful API for an e-commerce platform built with Node.js, Express, and MongoDB, featuring comprehensive functionality for managing products, orders, and payments.
+- **Features:**
+  - User authentication and authorization using JWT.
+  - Product and category management with image upload support using Multer.
+  - Shopping cart functionality and order processing.
+  - PayPal payment integration for secure transactions.
+  - Email notifications using Nodemailer.
+- **Technologies:** Node.js, Express.js, MongoDB, Mongoose, JWT, bcryptjs, Joi, Multer, Nodemailer, PayPal API
 
-### [STM32 Snake Game on TFT Display](https://github.com/AhmedMohamedomar74/Snake_Game)
-- **Description:** A classic Snake game implemented on an STM32 Blue Pill microcontroller, displayed on a TFT screen. The game is controlled using physical buttons with external interrupts for responsive gameplay. It features two unique display modes and five difficulty levels, each dynamically adjusting the snake's size and speed for an engaging challenge.  
-- **Features:**  
-  - **Platform:** STM32 Blue Pill (STM32F103C8T6)  
-  - **Display:** TFT screen controlled via SPI communication.  
-  - **Control:** Physical buttons connected to GPIO pins with external interrupts for responsive inputs.  
-  - **Display Modes:**
-    - **CohesiveAndStylish:** A smooth, harmonious color theme for relaxed gameplay.  
-    - **ModernLook:** A sleek, contemporary design for a fresh visual style.  
-  - **Game Levels:** Five difficulty levels with increasing speed and decreasing initial snake size to enhance the challenge.  
-- **Technologies:** C, STM32 HAL Libraries, SPI, GPIO  
+### [Blog API Project](https://github.com/AhmedMohamedomar74/Blog-API-Project)
+- **Description:** A Node.js-based RESTful API for managing blog content, including posts, comments, and user management, using MySQL and Sequelize ORM.
+- **Features:**
+  - User management with secure authentication using JWT.
+  - CRUD operations for blog posts and comments.
+  - Structured database schema with relational tables for users, posts, and comments.
+  - Standardized error handling with HTTP response codes.
+- **Technologies:** Node.js, Express.js, MySQL, Sequelize ORM, JWT
 
-### [Adaptive Traffic Light Control System](https://github.com/AhmedMohamedomar74/adaptive-traffic-light-control-system)
-- **Description:** An intelligent traffic management system leveraging microcontroller communication and machine learning algorithms to optimize traffic flow in real-time.  
-- **Technologies:** UART, I2C, Deep Reinforcement Learning, Bluetooth  
-
-### [UART Bootloader with UDS Protocol](https://github.com/AhmedMohamedomar74/UART-Bootloader-UDS-Protocol)
-- **Description:** A UART-based bootloader for ATmega32 enabling secure firmware updates with the UDS protocol, ensuring data integrity through CRC validation and error management.  
-- **Technologies:** Embedded C, Python, UART  
-
-### [Home Assistant Smart Home Integration](https://github.com/AhmedMohamedomar74/HomeAssistant)
-- **Description:** A smart home system integration using Home Assistant and MQTT, enabling seamless remote control and monitoring of appliances.  
-- **Technologies:** MQTT, Wi-Fi, Home Assistant  
-
-### [One-Dimensional Solar Panel Tracking System](https://github.com/AhmedMohamedomar74/Solar-panel-tracking)
-- **Description:** Developed a GUI-driven solar panel tracking system with real-time data plotting and control capabilities.  
-- **Technologies:** UART, ADC, PWM  
+### [MovieApp (Contributor)](https://github.com/hageramadan/MovieApp)
+- **Description:** An Angular-based web application for browsing and managing movie data, featuring a responsive front-end interface.
+- **Features:**
+  - Dynamic and responsive UI built with Angular CLI.
+  - Component-based architecture for scalability.
+  - Local development server with auto-reload for efficient development.
+- **Technologies:** Angular, TypeScript, HTML5, CSS3
 
 ---
 
 ## 📚 Education
-
-- **B.Sc. in Electronics and Communication Engineering**  
-  *Helwan University | Sep 2019 - Jul 2024*  
+- **B.Sc. in Electronics and Communication Engineering**
+  *Helwan University | Sep 2019 - Jul 2024*
 
 ---
 
 ## 🌟 Acknowledgements
-
-I am grateful to my mentors and peers for their continuous guidance and support. Their expertise has played a crucial role in my development as a developer.  
-
----
+I am grateful to my mentors, peers, and collaborators for their continuous guidance and support. Their expertise and encouragement have been instrumental in my growth as a MERN Full Stack Developer.
